@@ -13,9 +13,9 @@ import (
 	"go.lsp.dev/protocol"
 	"go.lsp.dev/uri"
 
-	"terragrunt-ls/internal/lsp"
-	"terragrunt-ls/internal/testutils"
-	"terragrunt-ls/internal/tg"
+	"github.com/dynamotn/terragrunt-ls/internal/lsp"
+	"github.com/dynamotn/terragrunt-ls/internal/testutils"
+	"github.com/dynamotn/terragrunt-ls/internal/tg"
 )
 
 func TestNewState(t *testing.T) {

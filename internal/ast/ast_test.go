@@ -1,7 +1,7 @@
 package ast_test
 
 import (
-	"terragrunt-ls/internal/ast"
+	"github.com/dynamotn/terragrunt-ls/internal/ast"
 	"testing"
 
 	"github.com/hashicorp/hcl/v2"

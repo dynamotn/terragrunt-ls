@@ -7,7 +7,7 @@ import (
 	"github.com/gruntwork-io/terragrunt/config"
 	"github.com/zclconf/go-cty/cty"
 
-	"terragrunt-ls/internal/ast"
+	"github.com/dynamotn/terragrunt-ls/internal/ast"
 )
 
 type Store struct {

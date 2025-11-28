@@ -1,9 +1,9 @@
 package hover_test
 
 import (
-	"terragrunt-ls/internal/testutils"
-	"terragrunt-ls/internal/tg/hover"
-	"terragrunt-ls/internal/tg/store"
+	"github.com/dynamotn/terragrunt-ls/internal/testutils"
+	"github.com/dynamotn/terragrunt-ls/internal/tg/hover"
+	"github.com/dynamotn/terragrunt-ls/internal/tg/store"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

@@ -1,9 +1,9 @@
 package completion_test
 
 import (
-	"terragrunt-ls/internal/testutils"
-	"terragrunt-ls/internal/tg/completion"
-	"terragrunt-ls/internal/tg/store"
+	"github.com/dynamotn/terragrunt-ls/internal/testutils"
+	"github.com/dynamotn/terragrunt-ls/internal/tg/completion"
+	"github.com/dynamotn/terragrunt-ls/internal/tg/store"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

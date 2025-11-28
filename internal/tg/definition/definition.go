@@ -3,9 +3,9 @@
 package definition
 
 import (
-	"terragrunt-ls/internal/ast"
-	"terragrunt-ls/internal/logger"
-	"terragrunt-ls/internal/tg/store"
+	"github.com/dynamotn/terragrunt-ls/internal/ast"
+	"github.com/dynamotn/terragrunt-ls/internal/logger"
+	"github.com/dynamotn/terragrunt-ls/internal/tg/store"
 
 	"go.lsp.dev/protocol"
 )

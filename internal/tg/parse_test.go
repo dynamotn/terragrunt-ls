@@ -3,8 +3,8 @@ package tg_test
 import (
 	"os"
 	"path/filepath"
-	"terragrunt-ls/internal/testutils"
-	"terragrunt-ls/internal/tg"
+	"github.com/dynamotn/terragrunt-ls/internal/testutils"
+	"github.com/dynamotn/terragrunt-ls/internal/tg"
 	"testing"
 
 	"github.com/gruntwork-io/terragrunt/config"

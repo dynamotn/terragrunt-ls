@@ -3,9 +3,9 @@ package completion
 
 import (
 	"strings"
-	"terragrunt-ls/internal/logger"
-	"terragrunt-ls/internal/tg/store"
-	"terragrunt-ls/internal/tg/text"
+	"github.com/dynamotn/terragrunt-ls/internal/logger"
+	"github.com/dynamotn/terragrunt-ls/internal/tg/store"
+	"github.com/dynamotn/terragrunt-ls/internal/tg/text"
 
 	"go.lsp.dev/protocol"
 )

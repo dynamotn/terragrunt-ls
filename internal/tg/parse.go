@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"terragrunt-ls/internal/logger"
+	"github.com/dynamotn/terragrunt-ls/internal/logger"
 
 	"github.com/gruntwork-io/terragrunt/config"
 	"github.com/gruntwork-io/terragrunt/config/hclparse"

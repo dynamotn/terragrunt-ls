@@ -5,11 +5,12 @@ import (
 	"encoding/json"
 	"io"
 	"os"
-	"terragrunt-ls/internal/config"
-	"terragrunt-ls/internal/logger"
-	"terragrunt-ls/internal/lsp"
-	"terragrunt-ls/internal/rpc"
-	"terragrunt-ls/internal/tg"
+
+	"github.com/dynamotn/terragrunt-ls/internal/config"
+	"github.com/dynamotn/terragrunt-ls/internal/logger"
+	"github.com/dynamotn/terragrunt-ls/internal/lsp"
+	"github.com/dynamotn/terragrunt-ls/internal/rpc"
+	"github.com/dynamotn/terragrunt-ls/internal/tg"
 
 	"go.lsp.dev/protocol"
 )

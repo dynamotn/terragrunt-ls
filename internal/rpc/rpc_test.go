@@ -1,7 +1,7 @@
 package rpc_test
 
 import (
-	"terragrunt-ls/internal/rpc"
+	"github.com/dynamotn/terragrunt-ls/internal/rpc"
 	"testing"
 )
 

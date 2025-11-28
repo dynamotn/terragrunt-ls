@@ -6,7 +6,7 @@ import (
 	"log/slog"
 	"os"
 	"path/filepath"
-	"terragrunt-ls/internal/logger"
+	"github.com/dynamotn/terragrunt-ls/internal/logger"
 	"testing"
 )
 

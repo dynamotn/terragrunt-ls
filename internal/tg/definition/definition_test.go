@@ -1,9 +1,9 @@
 package definition_test
 
 import (
-	"terragrunt-ls/internal/testutils"
-	"terragrunt-ls/internal/tg"
-	"terragrunt-ls/internal/tg/definition"
+	"github.com/dynamotn/terragrunt-ls/internal/testutils"
+	"github.com/dynamotn/terragrunt-ls/internal/tg"
+	"github.com/dynamotn/terragrunt-ls/internal/tg/definition"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

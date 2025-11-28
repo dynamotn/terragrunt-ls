@@ -1,7 +1,7 @@
 package text_test
 
 import (
-	"terragrunt-ls/internal/tg/text"
+	"github.com/dynamotn/terragrunt-ls/internal/tg/text"
 	"testing"
 
 	"github.com/stretchr/testify/assert"
